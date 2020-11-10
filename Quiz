@@ -1,0 +1,5 @@
+class Square():
+    def  __init_(self,side):
+        self.side = side
+        setSide = Square(0)
+        print(setSide.side)
